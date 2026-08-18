@@ -9,3 +9,5 @@ Quick start:
 3. Run in development: `npm run dev`.
 
 API base: `http://localhost:5000/api`.
+## 📸 Screenshots
+
