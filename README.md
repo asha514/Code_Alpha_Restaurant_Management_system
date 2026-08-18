@@ -102,15 +102,27 @@ Restaurant-Management-System/
 │   ├── mock/
 │   ├── App.jsx
 │   └── main.jsx
-│
-├── screenshots/
-│   ├── Screenshot (13).png
-│   ├── Screenshot (14).png
-│   ├── Screenshot (15).png
-│   ├── Screenshot (16).png
-│   ├── Screenshot (18).png
-│   ├── Screenshot (19).png
-│   └── Screenshot (20).png
-│
-├── package.json
-└── README.md
+│## Screenshots
+
+## Screenshots
+
+### Screenshot 13
+![Screenshot 13](screenshots/Screenshot(13).png)
+
+### Screenshot 14
+![Screenshot 14](screenshots/Screenshot(14).png)
+
+### Screenshot 15
+![Screenshot 15](screenshots/Screenshot(15).png)
+
+### Screenshot 16
+![Screenshot 16](screenshots/Screenshot(16).png)
+
+### Screenshot 18
+![Screenshot 18](screenshots/Screenshot(18).png)
+
+### Screenshot 19
+![Screenshot 19](screenshots/Screenshot(19).png)
+
+### Screenshot 20
+![Screenshot 20](screenshots/Screenshot(20).png)
