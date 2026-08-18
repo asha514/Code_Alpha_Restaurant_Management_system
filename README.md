@@ -1,38 +1,116 @@
-# React + Vite
+# 🍽️ Restaurant Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern full-stack Restaurant Management System built to manage restaurant operations such as menu items, customers, employees, orders, and table reservations.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Frontend:https://restrutant.netlify.app/
 
-## React Compiler
+🔗 Backend API: https://code-alpha-restaurant-management-system-1.onrender.com/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-## 📸 Screenshots
+### 👤 Customer Features
+- User Registration and Login
+- User Profile Management
+- Browse Restaurant Menu
+- View Menu Item Details
+- Add Items to Cart
+- Update Cart Quantity
+- Remove Items from Cart
+- Place Orders
+- View Order History
+- Table/Seat Reservation
+- Favourite Menu Items
+- Secure Authentication
 
-### 🏠 Home Page
-![Home Page](../screenshots/Screenshot%20(13).png)
+### 👨‍💼 Admin Features
+- Admin Dashboard
+- Manage Customers
+- Manage Employees
+- Manage Menu Items
+- Manage Orders
+- View Restaurant Statistics
+- Update Order Status
+- Manage Restaurant Operations
 
-### 🔐 Login Page
-![Login Page](../screenshots/Screenshot%20(14).png)
+### 🔐 Authentication
+- User Registration
+- User Login
+- JWT Authentication
+- Role-based Access
+- Protected Routes
 
-### 🍽️ Menu Page
-![Menu Page](../screenshots/Screenshot%20(15).png)
+---
 
-### 🛒 Cart Page
-![Cart Page](../screenshots/Screenshot%20(16).png)
+## 🛠️ Technologies Used
 
-### 📦 Orders Page
-![Orders Page](../screenshots/Screenshot%20(18).png)
+### Frontend
+- React.js
+- Vite
+- JavaScript
+- Tailwind CSS
+- Axios
+- React Router
+- Lucide React Icons
 
-### 👨‍💼 Admin Dashboard
-![Admin Dashboard](../screenshots/Screenshot%20(19).png)
+### Backend
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+- bcrypt
 
-### 👤 Customer Management
-![Customer Management](../screenshots/Screenshot%20(20).png)
+### Database
+- MongoDB
+- Mongoose
+- MongoDB Atlas
+
+### Tools
+- Visual Studio Code
+- Git
+- GitHub
+- Postman
+- MongoDB Compass
+- Netlify
+- Render
+
+---
+
+## 📂 Project Structure
+
+```text
+Restaurant-Management-System/
+│
+├── Backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── seed.js
+│   ├── server.js
+│   └── package.json
+│
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── services/
+│   ├── mock/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── screenshots/
+│   ├── Screenshot (13).png
+│   ├── Screenshot (14).png
+│   ├── Screenshot (15).png
+│   ├── Screenshot (16).png
+│   ├── Screenshot (18).png
+│   ├── Screenshot (19).png
+│   └── Screenshot (20).png
+│
+├── package.json
+└── README.md
