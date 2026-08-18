@@ -1,0 +1,25 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="56" fill="url(#bg)"/>
+  <circle cx="934" cy="238" r="180" fill="white" fill-opacity="0.18"/>
+  <circle cx="256" cy="686" r="200" fill="white" fill-opacity="0.12"/>
+  <rect x="246" y="180" width="708" height="540" rx="42" fill="white" fill-opacity="0.18" stroke="white" stroke-opacity="0.45" stroke-width="5"/>
+  <path d="M430 356C430 308.771 466.771 272 514 272H684C731.229 272 768 308.771 768 356V424C768 471.229 731.229 508 684 508H514C466.771 508 430 471.229 430 424V356Z" fill="#FFF7ED" fill-opacity="0.92"/>
+  <path d="M484 342C484 310.026 510.026 284 542 284H658C689.974 284 716 310.026 716 342V382C716 413.974 689.974 440 658 440H542C510.026 440 484 413.974 484 382V342Z" fill="#F59E0B" fill-opacity="0.25"/>
+  <path d="M524 332C524 314.327 538.327 300 556 300H644C661.673 300 676 314.327 676 332V392C676 409.673 661.673 424 644 424H556C538.327 424 524 409.673 524 392V332Z" fill="#F59E0B" fill-opacity="0.55"/>
+  <path d="M460 554C460 518.654 488.654 490 524 490H674C709.346 490 738 518.654 738 554V576C738 611.346 709.346 640 674 640H524C488.654 640 460 611.346 460 576V554Z" fill="#FB923C" fill-opacity="0.75"/>
+  <path d="M510 544H692" stroke="#7C2D12" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 620C420 592.386 442.386 570 470 570H698C725.614 570 748 592.386 748 620V643C748 670.614 725.614 693 698 693H470C442.386 693 420 670.614 420 643V620Z" fill="#FDE68A" fill-opacity="0.95"/>
+  <path d="M474 620C474 605.641 485.641 594 500 594H668C682.359 594 694 605.641 694 620V630C694 644.359 682.359 656 668 656H500C485.641 656 474 644.359 474 630V620Z" fill="#F59E0B" fill-opacity="0.35"/>
+  <path d="M392 330C392 330 354 334 344 382C334 430 362 468 382 484" stroke="#F59E0B" stroke-width="18" stroke-linecap="round"/>
+  <path d="M812 330C812 330 850 334 860 382C870 430 842 468 822 484" stroke="#FB923C" stroke-width="18" stroke-linecap="round"/>
+  <path d="M398 242C398 242 446 206 490 240" stroke="#FDE68A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M801 242C801 242 753 206 709 240" stroke="#FDE68A" stroke-width="14" stroke-linecap="round"/>
+  <text x="600" y="756" text-anchor="middle" fill="white" fill-opacity="0.9" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Chef Special Ready</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="84" x2="1060" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.5" stop-color="#7C2D12"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+</svg>
